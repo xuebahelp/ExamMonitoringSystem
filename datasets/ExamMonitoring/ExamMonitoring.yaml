@@ -1,0 +1,9 @@
+path: G:/project/full/ExamMonitoringSystem/datasets/ExamMonitoring
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 3
+names:
+- cheating
+- good
+- normal
